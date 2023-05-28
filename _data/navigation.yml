@@ -1,0 +1,17 @@
+# Sample site navigation bar links
+
+- title: Etusivu
+  url: /
+
+- title: Kirjoitukset
+  url: /posts/
+#- title: Categories
+#   url: /categories/
+- title: Tägit
+  url: /tags/
+# - title: Recipes
+#   url: /recipes/
+- title: Haku
+  url: /search/
+# - title: External Page
+#   url: https://the-page.com/you-want-to-link-to.html
